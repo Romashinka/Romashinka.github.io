@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Runes",
+"productVersion": "0.003",
+"dataUrl": "RunesProto4.data.unityweb",
+"wasmCodeUrl": "RunesProto4.wasm.code.unityweb",
+"wasmFrameworkUrl": "RunesProto4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
