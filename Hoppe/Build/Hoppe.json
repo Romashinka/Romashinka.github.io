@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Hoppe",
+"productVersion": "1.0",
+"dataUrl": "Hoppe.data.unityweb",
+"asmCodeUrl": "Hoppe.asm.code.unityweb",
+"asmMemoryUrl": "Hoppe.asm.memory.unityweb",
+"asmFrameworkUrl": "Hoppe.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
