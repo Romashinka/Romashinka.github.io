@@ -1,0 +1,16 @@
+{
+"companyName": "IGNITStudio",
+"productName": "RuneFighter",
+"productVersion": "0.069",
+"dataUrl": "B.data.unityweb",
+"wasmCodeUrl": "B.wasm.code.unityweb",
+"wasmFrameworkUrl": "B.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
