@@ -1,0 +1,16 @@
+{
+"companyName": "IGNITStudio",
+"productName": "RuneKeeper",
+"productVersion": "0.078",
+"dataUrl": "0078_Test.data.unityweb",
+"wasmCodeUrl": "0078_Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "0078_Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
